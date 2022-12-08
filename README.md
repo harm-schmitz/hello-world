@@ -17,6 +17,7 @@ GitHub Tutorial
 
 '''
 {
-zonder kwoots: een woord
+zonder kwoots: een woord,
 "met kwoots": "een ander woord"
 }
+'''
