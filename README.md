@@ -12,6 +12,7 @@ GitHub Tutorial
 'std::cout<<"Hello world"<<std::endl;'
 
 |kolom1|kolom2|
+|--------|--------|
 |kolom1rij1|kolom2rij1|
 
 '''
